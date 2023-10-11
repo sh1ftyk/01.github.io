@@ -1,38 +1,38 @@
 @font-face {
     font-family: "TT Lakes";
-    src: url("assets/fonts/TTLakes-Medium.eot");
+    src: url("/assets/fonts/TTLakes-Medium.eot");
     src:
-        local("assets/fonts/TT Lakes Medium"),
-        local("assets/fonts/TTLakes-Medium"),
-        url("assets/fonts/TTLakes-Medium.eot?#iefix") format("embedded-opentype"),
-        url("assets/fonts/TTLakes-Medium.woff") format("woff"),
-        url("assets/fonts/TTLakes-Medium.ttf") format("truetype");
+        local("/assets/fonts/TT Lakes Medium"),
+        local("/assets/fonts/TTLakes-Medium"),
+        url("/assets/fonts/TTLakes-Medium.eot?#iefix") format("embedded-opentype"),
+        url("/assets/fonts/TTLakes-Medium.woff") format("woff"),
+        url("/assets/fonts/TTLakes-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: "TT Lakes";
-    src: url("assets/fonts/TTLakes-Bold.eot");
+    src: url("/assets/fonts/TTLakes-Bold.eot");
     src:
-        local("assets/fonts/TT Lakes Bold"),
-        local("assets/fonts/TTLakes-Bold"),
-        url("assets/fonts/TTLakes-Bold.eot?#iefix") format("embedded-opentype"),
-        url("assets/fonts/TTLakes-Bold.woff") format("woff"),
-        url("assets/fonts/TTLakes-Bold.ttf") format("truetype");
+        local("/assets/fonts/TT Lakes Bold"),
+        local("/assets/fonts/TTLakes-Bold"),
+        url("/assets/fonts/TTLakes-Bold.eot?#iefix") format("embedded-opentype"),
+        url("/assets/fonts/TTLakes-Bold.woff") format("woff"),
+        url("/assets/fonts/TTLakes-Bold.ttf") format("truetype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: "TT Lakes";
-    src: url("assets/fonts/TTLakes-DemiBold.eot");
+    src: url("/assets/fonts/TTLakes-DemiBold.eot");
     src:
-        local("assets/fonts/TT Lakes DemiBold"),
-        local("assets/fonts/TTLakes-DemiBold"),
-        url("assets/fonts/TTLakes-DemiBold.eot?#iefix") format("embedded-opentype"),
-        url("assets/fonts/TTLakes-DemiBold.woff") format("woff"),
-        url("assets/fonts/TTLakes-DemiBold.ttf") format("truetype");
+        local("/assets/fonts/TT Lakes DemiBold"),
+        local("/assets/fonts/TTLakes-DemiBold"),
+        url("/assets/fonts/TTLakes-DemiBold.eot?#iefix") format("embedded-opentype"),
+        url("/assets/fonts/TTLakes-DemiBold.woff") format("woff"),
+        url("/assets/fonts/TTLakes-DemiBold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
 }
